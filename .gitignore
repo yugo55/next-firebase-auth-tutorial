@@ -34,3 +34,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+next-firebase-auth-tutorial-firebase-adminsdk-91l3i-e1655a21a0.json
